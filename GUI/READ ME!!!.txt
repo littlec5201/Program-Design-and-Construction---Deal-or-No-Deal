@@ -1,0 +1,14 @@
+To get the database component of the program to work:
+	Go to the services tab in NetBeans once the project has opened
+	Right click "Java DB" -> Create DataBase
+	Database Name: AssignmentDataBase
+	User Name: pdc
+	Password: pdc
+	Confirm Password: pdc
+	
+	Right click Databases
+	Add
+	Navigate to the project 
+	dist -> lib
+	The database will work when all of these .jar files are loaded
+	
